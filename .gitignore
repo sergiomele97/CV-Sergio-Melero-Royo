@@ -1,0 +1,8 @@
+# Ignorar todo por defecto
+*
+
+# Exceptuar los archivos .pdf
+!*.pdf
+
+# Exceptuar este archivo .gitignore
+!.gitignore
